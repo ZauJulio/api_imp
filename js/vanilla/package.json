@@ -1,0 +1,11 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "vanilla js api example",
+  "main": "index.js",
+  "author": "Zaú Júlio",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
